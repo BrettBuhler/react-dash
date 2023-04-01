@@ -1,70 +1,34 @@
-# Getting Started with Create React App
+# Front-End Sales Dashboard
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is a front-end sales dashboard built with React and several production-ready component libraries, including Material-UI, FullCalendar, and Nivo. The dashboard displays a calendar view of upcoming sales events and provides various charts and graphs to show statistics related to those events.
 
-## Available Scripts
+## Key Features
 
-In the project directory, you can run:
+- **Calendar View:** Users can view upcoming sales events in a calendar view and interact with events by clicking on them to view more details.
 
-### `npm start`
+- **Event Details:** Users can view detailed information about sales events, such as the name, date, time, location, and description.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- **Statistics Section:** The dashboard provides various charts and graphs to show statistics related to the sales events, such as the total revenue, the number of sales per day or week, or the distribution of sales across different categories.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- **Material-UI:** The dashboard uses Material-UI, a production-ready React component library, to create a consistent and professional-looking user interface.
 
-### `npm test`
+- **FullCalendar:** The dashboard uses FullCalendar, a production-ready JavaScript library, to create an interactive calendar view of the sales events.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- **Nivo:** The dashboard uses Nivo, a production-ready React-based data visualization library, to create customizable charts and graphs.
 
-### `npm run build`
+## Technologies Used
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- React
+- Material-UI
+- FullCalendar
+- Nivo
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Skills Developed
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- Front-end development
+- React
+- UI design
+- Component libraries
+- Data visualization
 
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+---
