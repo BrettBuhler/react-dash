@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-dash/static/css/main.dfef1980.css",
+    "main.js": "/react-dash/static/js/main.e18dfd42.js",
+    "index.html": "/react-dash/index.html",
+    "main.dfef1980.css.map": "/react-dash/static/css/main.dfef1980.css.map",
+    "main.e18dfd42.js.map": "/react-dash/static/js/main.e18dfd42.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dfef1980.css",
+    "static/js/main.e18dfd42.js"
+  ]
+}
