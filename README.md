@@ -1,4 +1,4 @@
-# Front-End Sales Dashboard
+# Front-End React Dashboard
 
 This project is a front-end sales dashboard built with React and several production-ready component libraries, including Material-UI, FullCalendar, and Nivo. The dashboard displays a calendar view of upcoming sales events and provides various charts and graphs to show statistics related to those events.
 
