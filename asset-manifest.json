@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/react-dash/static/css/main.dfef1980.css",
-    "main.js": "/react-dash/static/js/main.5e9ede21.js",
+    "main.js": "/react-dash/static/js/main.e8dc05a5.js",
     "static/media/user.png": "/react-dash/static/media/user.16d4e32ca122e2c539cc.png",
     "index.html": "/react-dash/index.html",
     "main.dfef1980.css.map": "/react-dash/static/css/main.dfef1980.css.map",
-    "main.5e9ede21.js.map": "/react-dash/static/js/main.5e9ede21.js.map"
+    "main.e8dc05a5.js.map": "/react-dash/static/js/main.e8dc05a5.js.map"
   },
   "entrypoints": [
     "static/css/main.dfef1980.css",
-    "static/js/main.5e9ede21.js"
+    "static/js/main.e8dc05a5.js"
   ]
 }
