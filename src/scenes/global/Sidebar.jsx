@@ -20,7 +20,7 @@ import UserImage from '../../components/user.png'
 
 
 const sideBarHeight = () => {
-    let h = window.outerHeight
+    let h = document.body.clientHeight
     if (h==1){
         h++
     }
@@ -53,7 +53,7 @@ const Sidebar = () => {
         <Box
             sx={{
                 '& .pro-sidebar-inner': {
-                    background: `${colors.primary[400]} !important`
+                    background: `${colors.primary[400]} !important`,
                 },
                 '& .pro-icon-wrapper': {
                     backgroundColor: 'transparent !important'
